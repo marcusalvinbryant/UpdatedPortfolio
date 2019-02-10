@@ -1,0 +1,30 @@
+header {
+    background-image: url("mb-logo.jpg");
+    background-color: white;
+    background-size: 800px 750px;
+    background-position: top right;
+    background-repeat: no-repeat;
+    height: 750px;
+}
+
+h2 {
+    color: red;
+}
+
+.textIntro {
+    padding-top: 75px;
+    padding-left: 50px;
+}
+
+.textIntro h1 {
+    font-size: 80px;
+}
+
+.textIntro h2 {
+    font-size: 80px;
+}
+
+.textIntro h3 {
+    font-size: 40px;
+    position: left;
+}
