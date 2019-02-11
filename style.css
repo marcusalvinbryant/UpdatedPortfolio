@@ -1,30 +1,58 @@
 header {
     background-image: url("mb-logo.jpg");
     background-color: white;
-    background-size: 800px 750px;
+    background-size: 800px 700px;
     background-position: top right;
     background-repeat: no-repeat;
-    height: 750px;
-}
-
-h2 {
-    color: red;
+    height: 800px;
 }
 
 .textIntro {
-    padding-top: 75px;
-    padding-left: 50px;
+    padding-top: 190px;
+    padding-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .textIntro h1 {
-    font-size: 80px;
+    font-size: 55px;
+    color: darkviolet;
 }
 
 .textIntro h2 {
     font-size: 80px;
+    animation-delay: 1.3s;
+    color: darkcyan;
+    letter-spacing: 7px;
+
 }
 
 .textIntro h3 {
-    font-size: 40px;
+    font-size: 90px;
     position: left;
+    color: darkviolet;
+    animation-delay: 1.5s;
+    letter-spacing: 35px;
+    line-height: 75%;
+}
+
+.textIntro h4 {
+    font-size: 35px;
+    position: left;
+    color: darkcyan;
+    animation-delay: 2.8s;
+}
+
+.portfolio {
+    background-color: black;
+}
+
+#soon {
+    text-align: center;
+    color: cyan;
+}
+
+#work {
+    text-align: center;
+    color: white;
+    font-size: 50px;
 }
